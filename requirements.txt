@@ -1,9 +1,0 @@
-streamlit==1.25.0  # Mise à jour à la dernière version stable compatible avec Python 3.12.0
-pandas==2.2.0  # Compatible avec Python 3.12.0
-nbformat==5.10.4  # Version compatible avec Python 3.12.0
-nbconvert==7.16.4  # Compatible avec Python 3.12.0
-requests==2.31.0  # Dernière version stable compatible
-pytz==2024.1  # Dernière version stable compatible
-openpyxl==3.1.2  # Dernière version compatible
-numpy==1.26.0  # Compatible avec Python 3.12.0
-setuptools>=68.0.0  # Version mise à jour pour garantir la compatibilité avec Python 3.12.0
